@@ -1,7 +1,7 @@
 ---
 deployment:
   tasks:
-    - export DEPLOYPATH=/home3/jzldtsmy/public_html/way2writersnew
+    - export DEPLOYPATH=home3/jzldtsmy/v2.way2writers.com
     - /bin/cp -r . $DEPLOYPATH
     - /bin/chmod -R 755 $DEPLOYPATH
     - /bin/chown -R jzldtsmy:jzldtsmy $DEPLOYPATH
