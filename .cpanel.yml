@@ -1,10 +1,10 @@
 ---
 deployment:
   tasks:
-    - export DEPLOYPATH=/home/your_username/public_html/your_project_folder
+    - export DEPLOYPATH=/home/jzldtsmy/public_html/way2writersnew
     - /bin/cp -r . $DEPLOYPATH
     - /bin/chmod -R 755 $DEPLOYPATH
-    - /bin/chown -R your_username:your_username $DEPLOYPATH
+    - /bin/chown -R jzldtsmy:jzldtsmy $DEPLOYPATH
     - /usr/local/bin/composer install --no-dev
     - /usr/local/bin/php artisan optimize
     - /usr/local/bin/php artisan migrate --force
