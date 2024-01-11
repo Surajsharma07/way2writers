@@ -35,8 +35,8 @@ $setting = getsetting();
                 <div class="col-xl-4 col-lg-4 col-md-5 align-self-center">
                      <div class="tp_banner_heading">
 <h2 class="tp_single_section" style="
-    text-align: center;
-">Contact Information</h2>            
+    text-align: center; font-weight: 700;    color: var(--dark-color); 
+">Contact Information</h2>             
 </div><div class="tp_contact_box">
                         
                         <div class="tp_contact_detail">
@@ -51,7 +51,7 @@ $setting = getsetting();
 (Except Sat-Sun, State & National Holidays)</span>
                         </div>
                         <div class="tp_contact_detail">
-                                                       <div align="center" style="transform:matrix(1, 0, 0, 1, 0, 0);font-size:22px;font-weight:500;box-sizing:border-box;">REACH US</div> <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3499.6886452336707!2d77.11194431508409!3d28.6989589823916!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x37b610f2ddb9fba4!2sway2writers.com!5e0!3m2!1sen!2sin!4v1523523688196" width="100%" height="300px" frameborder="0" style="border:0box-sizing:border-box;box-sizing:border-box;" allowfullscreen=""></iframe>
+                                                       <div align="center" style="transform:matrix(1, 0, 0, 1, 0, 0);font-size:22px;font-weight:500;box-sizing:border-box;">REACH US</div> <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3499.6886452336707!2d77.11194431508409!3d28.6989589823916!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x37b610f2ddb9fba4!2sway2writers.com!5e0!3m2!1sen!2sin!4v1523523688196" width="100%" height="200px" frameborder="0" style="border:0box-sizing:border-box;box-sizing:border-box;" allowfullscreen=""></iframe>
 
                         </div>
 

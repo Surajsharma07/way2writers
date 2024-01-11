@@ -2916,8 +2916,8 @@ input:-webkit-autofill {
 }
 .tp_contact_box {
   background: var(--theme-color);
-  padding: 50px 40px;
-  border-radius: 10px 0 0 10px;
+  padding: 20px 20px;
+  border-radius: 10px;
 }
 .tp_contact_box h4 {
   color: var(--white-color);
@@ -2926,8 +2926,8 @@ input:-webkit-autofill {
 .tp_contact_detail {
   background-color: var(--white-color);
   border-radius: 10px;
-  margin-top: 20px;
-  padding: 20px;
+  margin-top: 15px;
+  padding: 15px;
 }
 .tp_contact_detail p {
   font-size: 16px;
